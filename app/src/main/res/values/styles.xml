@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light variant. values-night/ supplies the matching dark variant so the
+         window background tracks the app's dark theme instead of staying white
+         behind Compose content. -->
+    <style name="Theme.NjuBalance" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

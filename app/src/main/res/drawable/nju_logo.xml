@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="142.2dp"
+    android:height="42.8dp"
+    android:viewportWidth="1422"
+    android:viewportHeight="428">
+    <!-- The SVG viewBox is anchored at (375,738); the group shifts
+         the art into a 0-based viewport instead of rewriting every
+         coordinate in the path. -->
+    <group
+        android:translateX="-375"
+        android:translateY="-738">
+        <path
+            android:fillColor="#e6e600"
+            android:pathData="M561 740.2c-49.6 0,-96.3 19.7,-131.5 55.5,-35 35.5,-54.2 82.2,-54.2 131.6v237.8h93.5V927.3c0,-50.9 41.4,-92.3 92.3,-92.3s92.3 41.4 92.3 92.3v235.3h94.7V927.3c0,-103.1,-83.9,-187,-187,-187zm1063.8 0h-93.5v235.3c0 50.9,-41.4 92.3,-92.3 92.3s-92.3,-41.4,-92.3,-92.3V740.2h-93.5v235.3c0 103.1 83.9 187 187 187s96.7,-19.4 131.5,-54.7c34.8,-35.2 53.6,-82.3 53,-132.3V740.2zm108.5 295.8h-.7c-34.6 0,-63.9 29.2,-63.9 63.8s29.3 63.9 63.9 63.9 63.9,-29.3 63.9,-63.9,-26,-60.9,-63.1,-63.8zm-640.4,-60.6c0 50.9,-41.4 92.3,-92.3 92.3s-87.7,-37,-92.3,-84.3l-.8,-8.4h-92.6v12.5c6.7 97.4 88.3 173.7 185.7 173.7s187,-83.9 187,-187V737.7h-94.7v237.8z" />
+    </group>
+</vector>

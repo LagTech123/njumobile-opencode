@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Cyan field behind the wordmark. The foreground is a transparent vector now,
+  so this only needs to match the brand cyan — nothing to line up with.
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#06A6C9" />
+</shape>

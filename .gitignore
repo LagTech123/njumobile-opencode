@@ -1,0 +1,18 @@
+# Gradle / Android Studio
+*.iml
+.gradle/
+.kotlin/
+.idea/
+local.properties
+build/
+app/build/
+captures/
+.externalNativeBuild
+.cxx/
+
+# Never publish signed builds or their keys
+*.apk
+*.aab
+*.jks
+*.keystore
+keystore.properties

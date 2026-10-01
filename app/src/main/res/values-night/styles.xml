@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark variant, picked automatically when the device is in night mode.
+         Without it the window stays white behind an otherwise dark UI. -->
+    <style name="Theme.NjuBalance" parent="android:Theme.Material.NoActionBar" />
+</resources>
