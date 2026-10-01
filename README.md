@@ -101,7 +101,7 @@ from blanking a field that was already correct.
 ## Made with AI
 
 This application was written by an AI coding agent (OpenCode). That is why the
-package is `pl.nju.opencode` — no intention to pretend otherwise.
+package is `pl.nju.opencode` — no intention to pretend otherwise. (this app will not receive any fixes i only made this for one thing and it works so im not changing it)
 
 ## Licence
 
